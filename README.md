@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Software Developer, experienced in the design and development of different types of software: single page web applications, REST web services. Experienced in architectural aspects of software development, including design, API development, performance tuning, and security.
+### Hi there 👋, I am a Software Engineer, experienced in the design and development of different types of software: single page web applications, REST web services. Experienced in architectural aspects of software development, including design, API development, performance tuning, and security.
 
 <!--
 **DioChuks/DioChuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-- 👀 I’m interested in rapid application development, solving problems instantly with available technology.
+- 👀 I’m interested in rapid application development, cloud operations and cybersecurity, solving problems instantly with available technology.
 - 🌱 I’m currently a web developer fluent in NodeJs, React, Vue, MySQL, JavaSript, TailwindCSS, PHP, Laravel, and Python.
 - 📫 How to reach me diochuks65@gmail.com.
