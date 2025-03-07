@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Software Engineer, experienced in designing and developing different types of software: single-page web applications and REST web services. I am experienced in the architectural aspects of software development, including design, API development, performance tuning, and security.
+### Hi there 👋, I am a Senior Software Engineer, experienced in designing and developing different types of software: single-page web applications and REST web services. I am experienced in the architectural aspects of software development, including design, API development, performance tuning, and security.
 [![](https://visitcount.itsvg.in/api?id=quintessence&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)   ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blueviolet?logo=github&logoColor=white)
 
 - 👨‍🎓 Computer Science Bsc
