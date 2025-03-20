@@ -1,10 +1,10 @@
-### Hi there 👋, I am a Senior Software Engineer, experienced in designing and developing different types of software: single-page web applications, multi-page web applications, SEO applications, Mobile applications and RESTful web services. I am experienced in the architectural aspects of software development, including design, Database Design, Development & Management, API development, performance tuning, and security.
+### Hi there 👋, I am a Senior Software Engineer L1, experienced in designing and developing different types of software: single-page web applications, multi-page web applications, SEO applications, Mobile applications and RESTful web services. I am experienced in the architectural aspects of software development, including design, Database Design, Development & Management, API development, performance tuning, and security.
 [![](https://visitcount.itsvg.in/api?id=quintessence&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)   ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blueviolet?logo=github&logoColor=white)
 
 - 👨‍🎓 Computer Science Bsc
 - 👀 I’m interested in rapid application development, cloud operations, and cybersecurity, solving problems instantly with available technology.
 - 🔭 I’m working on Silfrica, The Garage.
-- 🌱 I’m currently learning Rust and Microcontroller integration.
+- 🌱 I’m currently learning Rust, Go and Microcontroller integration.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dio-liam-b03161227/) [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&logoColor=white)](https://x.com/chuks_dio) [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:diochuks65@gmail.com)
 - ⚡ Fun fact: I love gaming, swimming, building, and breaking stuff!
 - 📍  I love contributions, it helps growth!
