@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Senior Software Engineer L1, experienced in designing and developing different types of software. I build efficient and elegant solutions to complex problems. I am experienced in the architectural aspects of software development, including design, Database Design & Development, API development, DevOps/CloudOps, performance tuning, and security.
+### Hello 👋, I'm a Mid-Senior Software Engineer with a strong background in designing and developing various types of software. I create elegant and efficient solutions to complex challenges. My expertise spans software architecture, including system design, database architecture and development, API creation, DevOps/CloudOps, performance optimization, and security.
 [![](https://visitcount.itsvg.in/api?id=quintessence&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)   ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blueviolet?logo=github&logoColor=white)
 
 - 👨‍🎓 Computer Science Bsc
